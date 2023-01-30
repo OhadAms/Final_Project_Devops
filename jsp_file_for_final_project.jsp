@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html"%>
-<%@ page import="java.text.*,java.util.*" %>
+<%@ page import="java.text.*,jav.util.*" %>
 <HTML>
-<HEAD
+<HEAD>
 <TITLE>DALL-E 2 Project</TITLE>
 </HEAD>
 <BODY BGCOLOR="FF6666">
