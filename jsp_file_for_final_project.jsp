@@ -1,4 +1,6 @@
-
+<%@ page language="java" contentType="text/html"%>
+<%@ page import="java.text.*,java.util.*" %>
+<HTML>
 <HEAD>
 <TITLE>DALL-E 2 Project</TITLE>
 </HEAD>
