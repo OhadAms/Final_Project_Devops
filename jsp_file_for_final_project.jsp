@@ -4,7 +4,7 @@
 <HEAD>
 <TITLE>My Picture from Ashdod Port</TITLE>
 </HEAD>
-<BODY BGCOLOR="FF6666">
+<BODY BGCOLOR="FF3333">
 <CENTER>
 <H2>My Picture from Ashdod Port :)</HH2H>
 <p>This is a photo from 2020 ! ".</p>
