@@ -1,7 +1,4 @@
-<%@ page language="java" contentType="text/html"%>
-<%@ page import="java.text.*,java.util.*" %>
-<HTML>
-  sdgdsgfdsgtrehsgh
+
 <HEAD>
 <TITLE>DALL-E 2 Project</TITLE>
 </HEAD>
@@ -12,4 +9,5 @@
 <img src="view.jpeg"/>
 </CENTER>
 </BODY>
+</HTML>
 
